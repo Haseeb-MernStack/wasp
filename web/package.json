@@ -21,8 +21,8 @@
     "write-translations": "docusaurus write-translations"
   },
   "dependencies": {
-    "@docusaurus/core": "^3.7.0",
-    "@docusaurus/preset-classic": "^3.7.0",
+    "@docusaurus/core": "^3.10.2",
+    "@docusaurus/preset-classic": "^3.10.2",
     "@giscus/react": "^3.1.0",
     "@kodingdotninja/use-tailwind-breakpoint": "^0.0.5",
     "@mdx-js/react": "^3.1.0",
@@ -31,9 +31,9 @@
     "classnames": "^2.3.2",
     "clsx": "^1.2.1",
     "front-matter": "^4.0.2",
-    "glob": "^11.0.2",
+    "glob": "^14.0.4",
     "plugin-image-zoom": "github:flexanalytics/plugin-image-zoom",
-    "postcss": "^8.4.19",
+    "postcss": "^8.5.32",
     "prism-react-renderer": "^2.4.1",
     "prismjs": "^1.29.0",
     "react": "^19.1.0",
